@@ -1,5 +1,10 @@
 ---
 title: "VWR-SLAM: Tightly Coupled SLAM System Based on Visible Light Positioning Landmark, Wheel Odometer, and RGB-D Camera"
+collection: publications
+permalink: /publication/2010-10-01-paper-title-number-1
+excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
+date: 2022-12-29
+venue: 'IEEE Transactions on Instrumentation and Measurement'
 paperurl: 'http://J-Wong639.github.io/files/VWR-SLAM.pdf'
 citation: 'J. Huang, S. Wen, W. Liang and W. Guan, "VWR-SLAM: Tightly Coupled SLAM System Based on Visible Light Positioning Landmark, Wheel Odometer, and RGB-D Camera," in IEEE Transactions on Instrumentation and Measurement, vol. 72, pp. 1-12, 2023, Art no. 5002812, doi: 10.1109/TIM.2022.3231332.'
 ---
